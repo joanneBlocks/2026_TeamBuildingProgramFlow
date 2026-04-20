@@ -41,7 +41,7 @@ const programData = [
   {
     time: "9:00–9:45 am",
     cells: [
-      { type: "lead",  label: "MV Walkthrough (Tina / Julie / Cha)", content: "Delivers Mission and Vision walkthrough per Hospital; gives context and meaning behind each statement" },
+      { type: "lead",  label: "MV Walkthrough (Tina, Julie, Cha)", content: "Delivers Mission and Vision walkthrough per Hospital; gives context and meaning behind each statement" },
       { type: "prog",  label: "Introduces + Debrief", content: "Introduces MV Presenter; gives activity instructions; leads debrief after" },
       { type: "speak", label: "Roams and Supports",  content: "Walks around during activity; encourages groups" },
       { type: "coord", label: "Activity Support",    content: "Distribute index cards, pens, manila paper, and markers; walk around to support groups; collect all materials after debrief" },
