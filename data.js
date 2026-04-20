@@ -30,7 +30,7 @@ const programData = [
   {
     time: "8:30–9:00 am",
     cells: [
-      { type: "part",  label: "Participant",          content: "Prepares for MV segment; may observe or rest; joins activity as participant" },
+      { type: "part",  label: "Joins as Participant",          content: "Prepares for MV segment; joins activity as participant" },
       { type: "prog",  label: "Facilitates — Full",  content: "Delivers Active Listening talk; gives activity instructions; leads gallery share and debrief" },
       { type: "speak", label: "Roams and Supports",  content: "Walks around during activity; encourages groups and answers questions" },
       { type: "coord", label: "Activity Support",    content: "Distribute manila paper and markers; walk around to support groups; collect all materials after debrief" },
