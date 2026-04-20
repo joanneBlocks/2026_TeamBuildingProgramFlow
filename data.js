@@ -46,7 +46,7 @@ const programData = [
       { type: "speak", label: "Roams and Supports",  content: "Walks around during activity; encourages groups" },
       { type: "coord", label: "Activity Support",    content: "Distribute index cards, pens, manila paper, and markers; walk around to support groups; collect all materials after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; available if food or logistics support is needed" },
-      { type: "part",  label: "Participant (On-Call)", content: "Joins MV fill-in-the-blanks activity as participant; available for AV assistance if needed" },
+      { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
     ]
   },
   {
@@ -56,12 +56,12 @@ const programData = [
   {
     time: "10:00 am–12:00 pm",
     cells: [
-      { type: "part",  label: "Joins as Participant", content: "Participates in Humanity's Last Day activity alongside the team" },
+      { type: "part",  label: "Joins as Participant", content: "Participates in activity alongside the team" },
       { type: "stby",  label: "On standby",          content: "Observes; available to assist speaker if needed" },
       { type: "speak", label: "Facilitates + Roams", content: "Delivers Goal Setting talk; gives activity instructions; walks around to support groups; leads debrief" },
       { type: "coord", label: "Activity Support",    content: "Distribute index cards, pens, manila paper and markers; walk around to support groups; collect all outputs after debrief; photograph outputs" },
       { type: "host",  label: "Lunch Preparation",   content: "Prepares and sets up lunch service toward end of session; ensures food is ready for 12pm" },
-      { type: "part",  label: "Participant (On-Call)", content: "Joins Humanity's Last Day activity as participant; available for AV assistance if needed" },
+      { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
     ]
   },
   {
@@ -91,7 +91,7 @@ const programData = [
       { type: "speak", label: "Delivers Talk + Roams", content: "Delivers Prioritization talk; walks around during activity" },
       { type: "coord", label: "Activity Support",    content: "Distribute sticky notes, pens, manila papers and markers; collect all materials after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; available if snack or logistics support is needed" },
-      { type: "part",  label: "Participant (On-Call)", content: "Joins Eisenhower Matrix activity as participant; available for AV assistance if needed" },
+      { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
     ]
   },
   {
@@ -102,14 +102,14 @@ const programData = [
       { type: "speak", label: "Facilitates + Roams", content: "Gives instructions for 6 scenario groups; walks around all groups; enriches discussion with examples; leads debrief" },
       { type: "coord", label: "Activity Support",    content: "Distribute scenario cards, manila papers and markers; keep time per group; collect all outputs after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; coordinates venue close-out preparation" },
-      { type: "part",  label: "Participant (On-Call)", content: "Joins scenario group activity as participant; available for AV assistance if needed; returns to AV station before 4:30pm" },
+      { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed; returns to AV station before 4:30pm" },
     ]
   },
   {
     time: "4:30–5:00 pm",
     cells: [
-      { type: "lead",  label: "Closing Message + Prizes (Dr. Chit / Dr. Roset)", content: "Delivers closing message; presents prizes or recognition if applicable; affirms the team's commitments" },
-      { type: "prog",  label: "Leads Closing",       content: "Synthesis of all four habits; leads The Spark Declaration activity; introduces leadership rep for closing" },
+      { type: "lead",  label: "Closing Message + Prizes (Dr. Chit + Dr. Roset)", content: "Delivers closing message; presents prizes or recognition if applicable; affirms the team's commitments" },
+      { type: "prog",  label: "Leads Closing",       content: "Synthesis of all four habits; leads activity; introduces leadership rep for closing" },
       { type: "speak", label: "Closing Remarks",     content: "Affirms the group's commitments" },
       { type: "coord", label: "Wrap-up",             content: "Distribute index cards, pens, manila paper and markers; collect the pens; set up group photo moment" },
       { type: "host",  label: "Venue Close-out",     content: "Coordinate full venue close-out; manage remaining food and logistics; confirm nothing is left behind" },
