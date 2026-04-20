@@ -111,7 +111,7 @@ const programData = [
       { type: "lead",  label: "Closing Message + Prizes (Dr. Chit + Dr. Roset)", content: "Delivers closing message; presents prizes or recognition if applicable; affirms the team's commitments" },
       { type: "prog",  label: "Leads Closing",       content: "Synthesis of all four habits; leads activity; introduces leadership rep for closing" },
       { type: "speak", label: "Closing Remarks",     content: "Affirms the group's commitments" },
-      { type: "coord", label: "Wrap-up",             content: "Distribute index cards, pens, manila paper and markers; collect the pens; set up group photo moment" },
+      { type: "coord", label: "Wrap-up",             content: "Distribute index cards, pens, manila paper and markers; collect the pens; set up group photo moment; turns over collected group output and materials to Tina" },
       { type: "host",  label: "Venue Close-out",     content: "Coordinate full venue close-out; manage remaining food and logistics; confirm nothing is left behind" },
       { type: "tech",  label: "Closing AV",          content: "Manage mic for leadership rep and speaker; ensure sound and lighting are set for closing; begin full equipment breakdown after program ends" },
     ]
