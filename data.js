@@ -30,12 +30,12 @@ const programData = [
   {
     time: "8:30–9:00 am",
     cells: [
-      { type: "stby",  label: "On standby",          content: "Prepares for MV segment; may observe or rest" },
+      { type: "part",  label: "Participant",          content: "Prepares for MV segment; may observe or rest; joins activity as participant" },
       { type: "prog",  label: "Facilitates — Full",  content: "Delivers Active Listening talk; gives activity instructions; leads gallery share and debrief" },
       { type: "speak", label: "Roams and Supports",  content: "Walks around during activity; encourages groups and answers questions" },
       { type: "coord", label: "Activity Support",    content: "Distribute manila paper and markers; walk around to support groups; collect all materials after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests after breakfast closeout" },
-      { type: "part",  label: "Participant (On-Call)", content: "Joins Cross-Gen activity as participant; available for AV assistance if needed" },
+      { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
     ]
   },
   {
