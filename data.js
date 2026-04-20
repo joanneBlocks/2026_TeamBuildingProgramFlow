@@ -22,7 +22,7 @@ const programData = [
       { type: "lead",  label: "Opening Message (Dr. Roset)", content: "Delivers leadership opening message; sets the tone and affirms the team" },
       { type: "prog",  label: "Facilitates",         content: "Introduces leadership rep; leads icebreaker; leads debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; not yet introduced to the group" },
-      { type: "coord", label: "Activity Support",    content: "Distribute manila paper and markers; monitor attendance sheet; collect materials after icebreaker" },
+      { type: "coord", label: "Activity Support",    content: "Distribute manila paper and markers; monitor attendance sheet; take photos; collect materials after icebreaker" },
       { type: "host",  label: "Breakfast Closeout",  content: "Clear and close out breakfast service; standby after" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins icebreaker as participant; available for AV assistance if needed" },
     ]
@@ -33,7 +33,7 @@ const programData = [
       { type: "part",  label: "Joins as Participant",          content: "Prepares for MV segment; joins activity as participant" },
       { type: "prog",  label: "Facilitates — Full",  content: "Delivers Active Listening talk; gives activity instructions; leads gallery share and debrief" },
       { type: "speak", label: "Roams and Supports",  content: "Walks around during activity; encourages groups and answers questions" },
-      { type: "coord", label: "Activity Support",    content: "Distribute manila paper and markers; walk around to support groups; collect all materials after debrief" },
+      { type: "coord", label: "Activity Support",    content: "Distribute manila paper and markers; walk around to support groups; take photos; collect all materials after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests after breakfast closeout" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
     ]
@@ -44,7 +44,7 @@ const programData = [
       { type: "lead",  label: "MV Walkthrough (Tina, Julie, Cha)", content: "Delivers Mission and Vision walkthrough per Hospital; gives context and meaning behind each statement" },
       { type: "prog",  label: "Introduces + Debrief", content: "Introduces MV Presenter; gives activity instructions; leads debrief after" },
       { type: "speak", label: "Roams and Supports",  content: "Walks around during activity; encourages groups" },
-      { type: "coord", label: "Activity Support",    content: "Distribute index cards, pens, manila paper, and markers; walk around to support groups; collect all materials after debrief" },
+      { type: "coord", label: "Activity Support",    content: "Distribute index cards, pens, manila paper, and markers; walk around to support groups; take photos; collect all materials after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; available if food or logistics support is needed" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
     ]
@@ -59,7 +59,7 @@ const programData = [
       { type: "part",  label: "Joins as Participant", content: "Participates in activity alongside the team" },
       { type: "stby",  label: "On standby",          content: "Observes; available to assist speaker if needed" },
       { type: "speak", label: "Facilitates + Roams", content: "Delivers Goal Setting talk; gives activity instructions; walks around to support groups; leads debrief" },
-      { type: "coord", label: "Activity Support",    content: "Distribute index cards, pens, manila paper and markers; walk around to support groups; collect all outputs after debrief; photograph outputs" },
+      { type: "coord", label: "Activity Support",    content: "Distribute index cards, pens, manila paper and markers; walk around to support groups; take photos; collect all outputs after debrief; photograph outputs" },
       { type: "host",  label: "Lunch Preparation",   content: "Prepares and sets up lunch service toward end of session; ensures food is ready for 12pm" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
     ]
@@ -74,7 +74,7 @@ const programData = [
       { type: "part",  label: "Joins as Participant", content: "Participates in Be Proactive activities alongside the team" },
       { type: "stby",  label: "On standby",          content: "Observes; available to assist speaker if needed" },
       { type: "speak", label: "Facilitates + Roams", content: "Delivers Be Proactive talk; gives instructions for all three activities; walks around to support groups; leads debrief" },
-      { type: "coord", label: "Activity Support",    content: "Don't distribute anything during Activity 1; distribute manila paper and markers during Activities 2 and 3; walk around to support groups; collect all materials after each activity debrief" },
+      { type: "coord", label: "Activity Support",    content: "Don't distribute anything during Activity 1; distribute manila paper and markers during Activities 2 and 3; walk around to support groups; take photos; collect all materials after each activity debrief" },
       { type: "stby",  label: "On standby",          content: "Rests after lunch service; available if food or logistics support is needed" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins Be Proactive activities as participant; available for AV assistance if needed" },
     ]
@@ -89,7 +89,7 @@ const programData = [
       { type: "part",  label: "Joins as Participant", content: "Participates in activity alongside the team" },
       { type: "prog",  label: "Facilitates — Full",  content: "Introduces Prioritization; gives activity instructions; leads debrief" },
       { type: "speak", label: "Roams", content: "Walks around during activity" },
-      { type: "coord", label: "Activity Support",    content: "Distribute sticky notes, pens, manila papers and markers; collect all materials after debrief" },
+      { type: "coord", label: "Activity Support",    content: "Distribute sticky notes, pens, manila papers and markers; take photos; collect all materials after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; available if snack or logistics support is needed" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
     ]
@@ -100,7 +100,7 @@ const programData = [
       { type: "part",  label: "Joins as Participant", content: "Participates in activity; prepares closing message and any prize presentation during activity" },
       { type: "stby",  label: "On standby",          content: "Observes; available to assist speaker if needed" },
       { type: "speak", label: "Delivers Talk + Roams", content: "Delivers Prioritization talk; gives instructions for the activity; walks around all groups; enriches discussion with examples; leads debrief" },
-      { type: "coord", label: "Activity Support",    content: "Distribute scenario cards, manila papers and markers; keep time per group; collect all outputs after debrief" },
+      { type: "coord", label: "Activity Support",    content: "Distribute scenario cards, manila papers and markers; keep time per group; take photos; collect all outputs and materials after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; coordinates venue close-out preparation" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed; returns to AV station before 4:30pm" },
     ]
@@ -111,7 +111,7 @@ const programData = [
       { type: "lead",  label: "Closing Message + Prizes (Dr. Chit + Dr. Roset)", content: "Delivers closing message; presents prizes or recognition if applicable; affirms the team's commitments" },
       { type: "prog",  label: "Leads Closing",       content: "Synthesis of all four habits; leads activity; introduces leadership rep for closing" },
       { type: "speak", label: "Closing Remarks",     content: "Affirms the group's commitments" },
-      { type: "coord", label: "Wrap-up",             content: "Distribute index cards, pens, manila paper and markers; collect the pens; set up group photo moment; turns over collected group output and materials to Tina" },
+      { type: "coord", label: "Wrap-up",             content: "Distribute index cards, pens, manila paper and markers; collect the manila paper, markers and pens; set up group photo moment; turns over collected group output and materials to Tina" },
       { type: "host",  label: "Venue Close-out",     content: "Coordinate full venue close-out; manage remaining food and logistics; confirm nothing is left behind" },
       { type: "tech",  label: "Closing AV",          content: "Manage mic for leadership rep and speaker; ensure sound and lighting are set for closing; begin full equipment breakdown after program ends" },
     ]
