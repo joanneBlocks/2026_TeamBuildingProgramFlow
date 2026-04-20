@@ -88,7 +88,7 @@ const programData = [
     cells: [
       { type: "part",  label: "Joins as Participant", content: "Participates in activity alongside the team" },
       { type: "prog",  label: "Facilitates — Full",  content: "Introduces Prioritization; gives activity instructions; leads debrief" },
-      { type: "speak", label: "Delivers Talk + Roams", content: "Delivers Prioritization talk; walks around during activity" },
+      { type: "speak", label: "Roams", content: "Walks around during activity" },
       { type: "coord", label: "Activity Support",    content: "Distribute sticky notes, pens, manila papers and markers; collect all materials after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; available if snack or logistics support is needed" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed" },
@@ -99,7 +99,7 @@ const programData = [
     cells: [
       { type: "part",  label: "Joins as Participant", content: "Participates in activity; prepares closing message and any prize presentation during activity" },
       { type: "stby",  label: "On standby",          content: "Observes; available to assist speaker if needed" },
-      { type: "speak", label: "Facilitates + Roams", content: "Gives instructions for the activity; walks around all groups; enriches discussion with examples; leads debrief" },
+      { type: "speak", label: "Delivers Talk + Roams", content: "Delivers Prioritization talk; gives instructions for the activity; walks around all groups; enriches discussion with examples; leads debrief" },
       { type: "coord", label: "Activity Support",    content: "Distribute scenario cards, manila papers and markers; keep time per group; collect all outputs after debrief" },
       { type: "stby",  label: "On standby",          content: "Rests; coordinates venue close-out preparation" },
       { type: "part",  label: "Participant (On-Call)", content: "Joins activity as participant; available for AV assistance if needed; returns to AV station before 4:30pm" },
